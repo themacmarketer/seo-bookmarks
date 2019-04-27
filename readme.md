@@ -9,7 +9,7 @@ Works best with Google Chrome.
 
 ## "LIST OF BOOKMARKS"
 
-* Get Backlinks: <a class="bookmarklet" href="javascript:(function(){function callback(){}var s=document.createElement("script");s.src="https://cdn.jsdelivr.net/gh/themacmarketer/seo-bookmarks@master/GetBacklinks.js";if(s.addEventListener){s.addEventListener("load",callback,false)}else if(s.readyState){s.onreadystatechange=callback}document.body.appendChild(s);})()">Get Backlinks</a>
+* Get Backlinks: [Bookmarklet](javascript:\(function\(\){function callback\(\){}var s=document.createElement\("script"\);s.src="https://cdn.jsdelivr.net/gh/themacmarketer/seo-bookmarks@master/GetBacklinks.js";if\(s.addEventListener\){s.addEventListener\("load",callback,false\)}else if\(s.readyState\){s.onreadystatechange=callback}document.body.appendChild\(s\);}\)\(\))
 
 
 ## Usage
