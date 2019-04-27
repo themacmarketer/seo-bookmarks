@@ -6,6 +6,11 @@ Go to [this website](#) and drag & drop the button onto your browsers Bookmarks 
 
 Works best with Google Chrome.
 
+
+## "LIST OF BOOKMARKS"
+Go to [Get Backlinks](javascript:(function(){function callback(){}var s=document.createElement("script");s.src="https://cdn.jsdelivr.net/gh/themacmarketer/seo-bookmarks@master/GetBacklinks.js";if(s.addEventListener){s.addEventListener("load",callback,false)}else if(s.readyState){s.onreadystatechange=callback}document.body.appendChild(s);})()) and drag & drop the button onto your browsers Bookmarks Bar.
+
+
 ## Usage
 0. (Mobile devices are not supported)
 1. Drag this button onto your browsers Bookmarks Bar
