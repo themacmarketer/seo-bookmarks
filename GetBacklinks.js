@@ -1,0 +1,1 @@
+javascript:location.href='https://app.neilpatel.com/en/seo_analyzer/backlinks?mode=domain&country=sg&domain='+window.location.href
