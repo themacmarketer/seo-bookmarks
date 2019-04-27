@@ -2,14 +2,14 @@
 Useful SEO link resources packaged as Chrome Bookmarklets.
 
 ## "Installation"
-Go to [this website](https://themacmarketer.github.io/seo-bookmarks/) and drag & drop the buttons onto your browsers Bookmarks Bar.
+Go to [this website](https://themacmarketer.github.io/seo-bookmarks/bookmarks.html) and drag & drop the buttons onto your browsers Bookmarks Bar.
 
 Works best with Google Chrome.
 
 
 ## "LIST OF BOOKMARKS"
 
-* [View SEO Bookmarklets](https://themacmarketer.github.io/seo-bookmarks/)
+* [View SEO Bookmarklets](https://themacmarketer.github.io/seo-bookmarks/bookmarks.html)
 
 ## Usage
 0. (Mobile devices are not supported)
